@@ -1,0 +1,15 @@
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\bin\Debug\netstandard2.0\LinkedIn Redesign.deps.json
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\bin\Debug\netstandard2.0\LinkedIn Redesign.dll
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\bin\Debug\netstandard2.0\ref\LinkedIn Redesign.dll
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\bin\Debug\netstandard2.0\LinkedIn Redesign.pdb
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.AssemblyInfoInputs.cache
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.AssemblyInfo.cs
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.csproj.CoreCompileInputs.cache
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.dll
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\ref\LinkedIn Redesign.dll
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.pdb
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\LinkedIn Redesign.csproj.AssemblyReference.cache
+C:\Users\Larry\source\repos\LinkedIn Redesign\LinkedIn Redesign\LinkedIn Redesign\obj\Debug\netstandard2.0\Views\FeedPage.xaml.g.cs
